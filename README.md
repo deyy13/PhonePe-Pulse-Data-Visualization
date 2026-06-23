@@ -88,16 +88,8 @@ https://www.phonepe.com/pulse/
 
 PhonePe-Pulse-Data-Visualization/
 │
-├── Dataset/
+├── data/
 ├── PowerBI Dashboard/
 │   └── PhonePe_Pulse.pbix
-├── Screenshots/
-│   ├── Overview.png
-│   ├── Transactions.png
-│   ├── Users.png
-│   └── Growth.png
 └── README.md
 
-## Author
-Kalpana Naidu
-M.Sc Data Science
