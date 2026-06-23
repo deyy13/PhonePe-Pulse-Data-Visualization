@@ -84,12 +84,3 @@ https://www.phonepe.com/pulse/
 - Data Storytelling
 - Trend and Growth Analysis
 
-## Project Structure
-
-PhonePe-Pulse-Data-Visualization/
-│
-├── data/
-├── PowerBI Dashboard/
-│   └── PhonePe_Pulse.pbix
-└── README.md
-
